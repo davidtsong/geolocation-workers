@@ -1,15 +1,3 @@
-# 👷 `worker-template` Hello World
+# Geolocation Hello World
 
-A template for kick starting a Cloudflare worker project.
-
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
-
-#### Wrangler
-
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+This is the source for [https://👀.davidtsong.com/geolocation-hello-world](https://xn--lp8h.davidtsong.com/geolocation-hello-world/). It is a demo of how you can what geolocation data fields are available to developers on Workers.
