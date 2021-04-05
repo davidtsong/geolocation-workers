@@ -1,15 +1,2 @@
-# 👷 `worker-template` Hello World
-
-A template for kick starting a Cloudflare worker project.
-
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
-
-#### Wrangler
-
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+# Geolocation Weather
+This is the source for [https://👀.davidtsong.com/geolocation-weather](https://xn--lp8h.davidtsong.com/geolocation-weather). It is a demo of how you can use geolocation data on Workers to build location based apps like this one for finding out the weather near you using the the World Air Quality Project’s API.
